@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "361275499178",
+    "project_id": "digitalqueueapp-c82e6",
+    "storage_bucket": "digitalqueueapp-c82e6.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:361275499178:android:a3218c644b671c752f66d3",
+        "android_client_info": {
+          "package_name": "com.example.digitalqueueapp_assignment"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA01Jqj48L027Vho2IP_mKZllfjoE7GVKI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
