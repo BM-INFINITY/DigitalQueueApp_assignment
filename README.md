@@ -90,4 +90,12 @@ app/
 <img width="345" height="768" alt="Screenshot 2025-11-17 204202" src="https://github.com/user-attachments/assets/60948785-2e93-4afb-ad2e-000f73a8d131" />
 <img width="362" height="761" alt="Screenshot 2025-11-17 204216" src="https://github.com/user-attachments/assets/185ecce9-6704-46fb-a262-b192484ee964" />
 
+Future Improvements
 
+OTP Login
+
+Push Notifications
+
+Multi-counter system
+
+UI redesign (Material 3)
